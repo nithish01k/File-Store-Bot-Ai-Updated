@@ -363,7 +363,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/missqueenbotxchat"),
-                        InlineKeyboardButton("AI MENU", url="https://t.me/missqueenbotx/30")
+                        InlineKeyboardButton("All Bots", url="https://t.me/missqueenbotx/30")
                     ]
                 ]
             )
