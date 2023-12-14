@@ -21,7 +21,7 @@ class Config(object):
 This is a Permanent FileStore Bot. 
 Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edit Permission, I will add save Uploaded File in Channel and Share a Shareable Link. 
 
-╭────[ 🔅Ai FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅]────⍟
+╭────[ 🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅]────⍟
 │
 ├🔹 My Name: [FileStore Bot](https://t.me/{BOT_USERNAME})
 ├🔹 Language: [Python 3](https://www.python.org)
