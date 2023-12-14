@@ -26,7 +26,7 @@ class Config(object):
 ├🔹 Library: [Pyrogram](https://docs.pyrogram.org)
 │
 ├🔸 Bᴜʏ Tʜɪs Bᴏᴛ: [Click Here](https://t.me/sonali_sahaibot)
-╰──────[ 🤍 ]───────────⍟
+╰──────────[ 🤍 ]───────────⍟
 </b>
 """
   ABOUT_DEV_TEXT = f"""
