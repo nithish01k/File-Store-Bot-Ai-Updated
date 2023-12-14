@@ -31,9 +31,9 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ╰──────[ 🤍 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-<b>𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [OWNER](https://t.me/sonali_sahaibot)
-
-[Aʟʟ Bᴏᴛs Lɪsᴛ](https://t.me/missqueenbotx/30) </b>
+<b>𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [˹ᴍɪss sonali ♡゙ ˼](https://t.me/sonali_sahaibot)
+<b>Aʟʟ Bᴏᴛs Lɪsᴛ: [Click Here](https://t.me/sonali_sahaibot)
+</b>
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
