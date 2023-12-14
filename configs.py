@@ -36,7 +36,7 @@ class Config(object):
 """
   HOME_TEXT = """
   <b>
-Hello, [{}](tg://user?id={})\n\n❕ This is a Permanent **FileStore Bot**.
+Hello, [{}](tg://user?id={}) 🤍\n\n❕ This is a Permanent **FileStore Bot**.
 
 🔉 Send me any File & It will be uploaded in My Database & You will Get the File Link.
 
