@@ -58,7 +58,7 @@ async def _(bot: Client, cmd: Message):
 async def start(bot: Client, cmd: Message):
 
     if cmd.from_user.id in Config.BANNED_USERS:
-        await cmd.reply_text("Sorry, You are banned.use owner Bot @Ai_botz_owner_bot to use me again")
+        await cmd.reply_text("Sorry, You are banned.use owner Bot @sonali_sahaibot to use me again")
         return
     if Config.UPDATES_CHANNEL is not None:
         back = await handle_force_sub(bot, cmd)
@@ -83,7 +83,7 @@ async def start(bot: Client, cmd: Message):
                     ],
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/missqueenbotxchat"),
-                        InlineKeyboardButton("AI MENU", url="https://t.me/missqueenbotx/30")
+                        InlineKeyboardButton("All Bots", url="https://t.me/missqueenbotx/30")
                     ]
                 ]
             )
@@ -337,7 +337,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://t.me/Ai_botz_owner_bot")
+                                             url="https://t.me/sonali_sahaibot")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
