@@ -1,3 +1,5 @@
+<b> all vaeriable are added in repo just diploy in heroko </b>
+
 ![aifile store](https://telegra.ph/Ai-png-12-11)
 
 ⍟ <b>𝗧𝗵𝗶𝘀 𝗶𝘀 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗣𝗮𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗙𝗶𝗹𝗲𝘀 𝗦𝘁𝗼𝗿𝗲 𝗕𝗼𝘁 𝗯𝘆 [AI BOTZ](https://t.me/Ai_botz_owner_bot).<b>
