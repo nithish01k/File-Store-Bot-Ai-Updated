@@ -68,11 +68,11 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
         short_link = get_short(share_link)
         await editable.edit(
             #f"**<b>🍁 Batch Files Stored in my Database!**\n\n❕ Hᴇʀᴇ ɪs ᴛʜᴇ Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ ᴏғ ʏᴏᴜʀ ғɪʟᴇs: <code>{share_link}</code> \n\n"
-            f"**🍁 Batch Files Stored in my Database!**\n\n⭐ Here is the Permanent Link of your files: <code>{short_link}</code> \n\n"
+            f"**<b>🍁 Batch Files Stored in my Database!**\n\n⭐ Hᴇʀᴇ ɪs ᴛʜᴇ Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ ᴏғ ʏᴏᴜʀ ғɪʟᴇs: <code>{short_link}</code> \n\n"
             f"Just Click the link to get your files! </b>",
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("🍁 Original Link 🍁", url=share_link),
-                  InlineKeyboardButton("🍁 Short Link 🍁", url=short_link)]]
+                [[InlineKeyboardButton("🍁 Original Link 🍁", url=short_link),
+                  InlineKeyboardButton("🍁 How To Open 🍁", url="https://t.me/hindi_movies_free_downlo/456")]]
             ),
             disable_web_page_preview=True
         )
