@@ -72,7 +72,7 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             f"Just Click the link to get your files! </b>",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("🍁 Original Link 🍁", url=share_link),
-                  InlineKeyboardButton("🌿 Support Link 🌿", url=short_link)]]
+                  InlineKeyboardButton("Support Link ✨", url=short_link)]]
             ),
             disable_web_page_preview=True
         )
@@ -107,13 +107,13 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
         share_link = f"https://telegram.me/{Config.BOT_USERNAME}?start=missqueenbotx_{str_to_b64(file_er_id)}"
         short_link = get_short(share_link)
         await editable.edit(
-            "**Your File Stored in my Database!**\n\n"
-            f"Here is the Permanent Link of your file: <code>{share_link}</code> \n\n"
-            f"Here is the Short Link of your file: <code>{short_link}</code> \n\n"
-            "Just Click the link to get your file!",
+            "**<b>🍁 Your File Stored in my Database!</b>**\n\n"
+            f"<b>⭐️ Hᴇʀᴇ ɪs ᴛʜᴇ Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ ᴏғ ʏᴏᴜʀ ғɪʟᴇ: <code>{share_link}</code> \n\n"
+            # f"Here is the Short Link of your file: <code>{short_link}</code> \n\n"
+            "Just Click the link to get your file 👆🏻</b>",
             reply_markup=InlineKeyboardMarkup(
-               [[InlineKeyboardButton("Original Link", url=share_link),
-                  InlineKeyboardButton("Short Link", url=short_link)]]
+               [[InlineKeyboardButton("🍁 Original Link 🍁", url=share_link),
+                  InlineKeyboardButton("Short Link ✨", url=short_link)]]
             ),
             disable_web_page_preview=True
         )
