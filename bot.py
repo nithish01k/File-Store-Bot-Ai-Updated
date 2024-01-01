@@ -68,11 +68,9 @@ async def start(bot: Client, cmd: Message):
     usr_cmd = cmd.text.split("_", 1)[-1]
     if usr_cmd == "/start":
         await add_user_to_database(bot, cmd)
-        await cmd.reply_photo(
-            photo="https://graph.org/file/1c15be412eb886ba1c8e3.jpg",
-            caption=Config.HOME_TEXT.format(cmd.from_user.first_name, cmd.from_user.id),
-            disable_web_page_preview=True,
-            reply_markup=InlineKeyboardMarkup(
+        await cmd.reply_photo(photo="https://graph.org/file/1c15be412eb886ba1c8e3.jpg",
+                caption=Config.HOME_TEXT.format(cmd.from_user.first_name, cmd.from_user.id),
+                reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton("Updates Channel", url="https://t.me/missqueenbotx")
