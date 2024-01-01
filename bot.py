@@ -76,7 +76,7 @@ async def start(bot: Client, cmd: Message):
                         InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🦋", url="https://t.me/missqueenbotx")
                     ],[
                         InlineKeyboardButton("😎 Aʙᴏᴜᴛ", callback_data="aboutbot"),
-                        InlineKeyboardButton("⚙️ Hᴇʟᴘ", url="https://t.me/missqueenbotx/30")
+                        InlineKeyboardButton("⚙️ Hᴇʟᴘ", url="https://t.me/missqueenbotxchat")
                     ],[
                         InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
                     ],[          
@@ -355,7 +355,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                         InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🦋", url="https://t.me/missqueenbotx")
                     ],[
                         InlineKeyboardButton("😎 Aʙᴏᴜᴛ", callback_data="aboutbot"),
-                        InlineKeyboardButton("⚙️ Hᴇʟᴘ", url="https://t.me/missqueenbotx/30")
+                        InlineKeyboardButton("⚙️ Hᴇʟᴘ", url="https://t.me/missqueenbotxchat")
                     ],[
                         InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
                     ],[
