@@ -82,6 +82,7 @@ async def start(bot: Client, cmd: Message):
                     ],[          
                         InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/Disclaimer-12-29-60'),
                         InlineKeyboardButton("● Aᴅᴍɪɴs ●", callback_data="aboutdevs")
+                    ]
                 ]
             )
         )
