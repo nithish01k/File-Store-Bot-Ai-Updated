@@ -29,8 +29,11 @@ class Config(object):
 ╰───────────────⍟ </b> 
 """
   ABOUT_DEV_TEXT = f"""
-<b>𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [˹ᴍɪss sonali ♡゙ ˼](https://t.me/sonali_sahaibot)
-<b>Aʟʟ Bᴏᴛs Lɪsᴛ: [Click Here](https://t.me/sonali_sahaibot)
+<b>Hɪ I'M <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a>✨\n
+ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ : <a href=https://t.me/sonali_sahaibot>Cʟɪᴄᴋ Hᴇʀᴇ</a>
+ᴠɪsɪᴛ ᴍʏ ɢɪᴛʜᴜʙ : <a href=https://github.com/sonali1563>Sᴏɴᴀʟɪ's Gɪᴛʜᴜʙ</a>
+ᴍʏ Cʜᴀɴɴᴇʟ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/missqueenbotx>𝙈𝙞𝙨𝙨𝙌𝙪𝙚𝙚𝙣𝘽𝙤𝙩 𝙭</a>
+ᴍʏ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/missqueenbotxchat>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥</a>
 </b>
 """
   HOME_TEXT = """
