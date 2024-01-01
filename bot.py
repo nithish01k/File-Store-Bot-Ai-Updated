@@ -74,12 +74,10 @@ async def start(bot: Client, cmd: Message):
                 [
                     [
                         InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🦋", url="https://t.me/missqueenbotx")
-                    ],
-                    [
+                    ],[
                         InlineKeyboardButton("😎 Aʙᴏᴜᴛ", callback_data="aboutbot"),
                         InlineKeyboardButton("⚙️ Hᴇʟᴘ", url="https://t.me/missqueenbotx/30")
-                    ],
-                    [
+                    ],[
                         InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
                     ],[          
                         InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/Disclaimer-12-29-60'),
