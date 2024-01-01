@@ -18,17 +18,15 @@ class Config(object):
   BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", True))
   BANNED_CHAT_IDS = list(set(int(x) for x in os.environ.get("BANNED_CHAT_IDS", "").split()))
   OTHER_USERS_CAN_SAVE_FILE = bool(os.environ.get("OTHER_USERS_CAN_SAVE_FILE", True))
-  ABOUT_BOT_TEXT = f"""
-  <b>
-╭────[ 🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅]────⍟
-│
-├🔹 My Name: [FileStore Bot](https://t.me/{BOT_USERNAME})
-├🔹 Language: [Python 3](https://www.python.org)
-├🔹 Library: [Pyrogram](https://docs.pyrogram.org)
-│
-├🔸 Bᴜʏ Tʜɪs Bᴏᴛ: [Click Here](https://t.me/sonali_sahaibot)
-╰──────────[ 🤍 ]───────────⍟
-</b>
+  ABOUT_BOT_TEXT = f"""<b>╭───────────⍟
+├◈ ᴍy ɴᴀᴍᴇ : File Store Bot
+├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a> 
+├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/missqueenbotx>𝙈𝙞𝙨𝙨𝙌𝙪𝙚𝙚𝙣𝘽𝙤𝙩 𝙭</a>   
+├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
+├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pʏᴛʜᴏɴ 𝟹</a>
+├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
+├◈ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/missqueenbotx>File Store V3.0.0</a>
+╰───────────────⍟ </b> 
 """
   ABOUT_DEV_TEXT = f"""
 <b>𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [˹ᴍɪss sonali ♡゙ ˼](https://t.me/sonali_sahaibot)
