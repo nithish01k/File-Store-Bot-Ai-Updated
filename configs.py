@@ -37,8 +37,7 @@ class Config(object):
 </b>
 """
   HOME_TEXT = """<b>
-Hello, [{}](tg://user?id={}) 🤍\n**.
-
+Hello, [{}](tg://user?id={}) 🤍\n
 ◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ Fɪʟᴇ Store Bᴏᴛ.
 ◈ I Cᴀɴ Give You Direct And Batch Links Just Forward Me Files.
 
