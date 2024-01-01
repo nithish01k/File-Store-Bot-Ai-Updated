@@ -319,7 +319,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                         InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ✨", url="https://t.me/sonali_sahaibot")
                     ],
                     [
-                        InlineKeyboardButton("● Aᴅᴍɪɴs ●", callback_data="aboutdevs"),
+                        InlineKeyboardButton("✘", callback_data="closeMessage"),
                         InlineKeyboardButton("Home", callback_data="gotohome")
                     ]
                 ]
@@ -336,7 +336,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                         InlineKeyboardButton("Jᴏɪɴ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url="https://t.me/missqueenbotxchat")
                     ],
                     [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
+                        InlineKeyboardButton("✘", callback_data="closeMessage"),
                         InlineKeyboardButton("Home", callback_data="gotohome")
                     ]
                 ]
