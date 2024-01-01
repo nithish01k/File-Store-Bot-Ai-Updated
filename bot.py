@@ -316,7 +316,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Jᴏɪɴ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url="https://t.me/missqueenbotxchat")
+                        InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ✨", url="https://t.me/sonali_sahaibot")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -333,8 +333,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://t.me/sonali_sahaibot")
+                        InlineKeyboardButton("Jᴏɪɴ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url="https://t.me/missqueenbotxchat")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
