@@ -352,16 +352,15 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Updates Channel", url="https://t.me/missqueenbotx")
-                    ],
-                    [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs"),
-                        InlineKeyboardButton("Close ⛔️", callback_data="closeMessage")
-                    ],
-                    [
-                        InlineKeyboardButton("Support Group", url="https://t.me/missqueenbotxchat"),
-                        InlineKeyboardButton("All Bots", url="https://t.me/missqueenbotx/30")
+                        InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🦋", url="https://t.me/missqueenbotx")
+                    ],[
+                        InlineKeyboardButton("😎 Aʙᴏᴜᴛ", callback_data="aboutbot"),
+                        InlineKeyboardButton("⚙️ Hᴇʟᴘ", url="https://t.me/missqueenbotx/30")
+                    ],[
+                        InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
+                    ],[
+                        InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/Disclaimer-12-29-60'),
+                        InlineKeyboardButton("● Aᴅᴍɪɴs ●", callback_data="aboutdevs")
                     ]
                 ]
             )
