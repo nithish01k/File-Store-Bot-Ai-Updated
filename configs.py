@@ -36,11 +36,11 @@ class Config(object):
 ᴍʏ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/missqueenbotxchat>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥</a>
 </b>
 """
-  HOME_TEXT = """
-  <b>
-Hello, [{}](tg://user?id={}) 🤍\n\n❕ This is a Permanent **FileStore Bot**.
+  HOME_TEXT = """<b>
+Hello, [{}](tg://user?id={}) 🤍\n\**.
 
-🔉 Send me any File & It will be uploaded in My Database & You will Get the File Link.
+◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ Fɪʟᴇ Store Bᴏᴛ.
+◈ I Cᴀɴ Give You Direct And Batch Links Just Forward Me Files.
 
-⚠️ Benefits: Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀ TᴇʟᴇGʀᴀᴍ Mᴏᴠɪᴇ Cʜᴀɴɴᴇʟ ᴏʀ Aɴʏ Cᴏᴘʏʀɪɢʜᴛ Cʜᴀɴɴᴇʟ, Tʜᴇɴ Iᴛs Usᴇғᴜʟ ғᴏʀ Dᴀɪʟʏ Usᴀɢᴇ, Yᴏᴜ ᴄᴀɴ Sᴇɴᴅ Mᴇ Yᴏᴜʀ Fɪʟᴇ & I ᴡɪʟʟ Sᴇɴᴅ Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ ᴛᴏ Yᴏᴜ & Cʜᴀɴɴᴇʟ ᴡɪʟʟ ʙᴇ Sᴀғᴇ ғʀᴏᴍ CᴏᴘʏRɪɢʜᴛ Iɴғʀɪɴɢᴇᴍᴇɴᴛ Issᴜᴇ.
+• Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @missqueenbotx
 </b>"""
