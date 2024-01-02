@@ -350,9 +350,6 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Jᴏɪɴ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url="https://t.me/missqueenbotxchat")
-                    ],
-                    [
                         InlineKeyboardButton("✘ Cʟᴏꜱᴇ", callback_data="closeMessage"),
                         InlineKeyboardButton("⛔️ Bᴀᴄᴋ", callback_data="gotohome")
                     ]
