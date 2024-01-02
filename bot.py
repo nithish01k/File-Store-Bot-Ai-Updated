@@ -376,7 +376,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                         InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
                     ],[
                         InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/Disclaimer-12-29-60'),
-                        InlineKeyboardButton("⚙️ Hᴇʟᴘ", url="https://t.me/missqueenbotxchat")
+                        InlineKeyboardButton("⚙️ Hᴇʟᴘ", callback_data="helps")
                     ]
                 ]
             )
