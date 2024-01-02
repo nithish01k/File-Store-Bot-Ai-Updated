@@ -44,5 +44,12 @@ Hello, [{}](tg://user?id={}) 🤍\n
 • Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @missqueenbotx
 </b>"""
 
-  Helps_data_test = """hi
- """
+  Helps_data_test = """<b>
+⚪️ Hᴏᴡ ᴛᴏ Usᴇ Bᴏᴛ & ɪᴛ's Bᴇɴᴇғɪᴛs??
+
+⚪️ Sᴇɴᴅ ᴍᴇ ᴀɴʏ Fɪʟᴇ & Iᴛ ᴡɪʟʟ ʙᴇ ᴜᴘʟᴏᴀᴅᴇᴅ ɪɴ Mʏ Dᴀᴛᴀʙᴀsᴇ & Yᴏᴜ ᴡɪʟʟ Gᴇᴛ ᴛʜᴇ Fɪʟᴇ Lɪɴᴋ.
+
+😍 Bᴇɴᴇғɪᴛs: Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀ TᴇʟᴇGʀᴀᴍ Mᴏᴠɪᴇ Cʜᴀɴɴᴇʟ ᴏʀ Aɴʏ Cᴏᴘʏʀɪɢʜᴛ Cʜᴀɴɴᴇʟ, Tʜᴇɴ Iᴛs Usᴇғᴜʟ ғᴏʀ Dᴀɪʟʏ Usᴀɢᴇ, Yᴏᴜ ᴄᴀɴ Sᴇɴᴅ Mᴇ Yᴏᴜʀ Fɪʟᴇ & I ᴡɪʟʟ Sᴇɴᴅ Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ ᴛᴏ Yᴏᴜ & Cʜᴀɴɴᴇʟ ᴡɪʟʟ ʙᴇ Sᴀғᴇ ғʀᴏᴍ CᴏᴘʏRɪɢʜᴛ Iɴғʀɪɴɢᴇᴍᴇɴᴛ Issᴜᴇ.
+
+• ғᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ᴄᴏɴᴛᴀᴄᴛ ʜᴇʀᴇ <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a> : <a href=https://t.me/missqueenbotxchat>Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ</a>
+ </b>"""
