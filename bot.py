@@ -80,7 +80,7 @@ async def start(bot: Client, cmd: Message):
                     ],[
                         InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
                     ],[          
-                        InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/Disclaimer-12-29-60'),
+                        InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/D%C9%AAs%E1%B4%84%CA%9F%E1%B4%80%C9%AA%E1%B4%8D%E1%B4%87%CA%80-01-02'),
                         InlineKeyboardButton("⚙️ Hᴇʟᴘ", callback_data="helps")
                     ]
                 ]
@@ -372,7 +372,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     ],[
                         InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
                     ],[
-                        InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/Disclaimer-12-29-60'),
+                        InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/D%C9%AAs%E1%B4%84%CA%9F%E1%B4%80%C9%AA%E1%B4%8D%E1%B4%87%CA%80-01-02'),
                         InlineKeyboardButton("⚙️ Hᴇʟᴘ", callback_data="helps")
                     ]
                 ]
