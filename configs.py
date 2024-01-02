@@ -19,13 +19,13 @@ class Config(object):
   BANNED_CHAT_IDS = list(set(int(x) for x in os.environ.get("BANNED_CHAT_IDS", "").split()))
   OTHER_USERS_CAN_SAVE_FILE = bool(os.environ.get("OTHER_USERS_CAN_SAVE_FILE", True))
   ABOUT_BOT_TEXT = f"""<b>╭───────────⍟
-├◈ ᴍy ɴᴀᴍᴇ : File Store Bot
+├◈ ᴍy ɴᴀᴍᴇ : Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ
 ├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a> 
 ├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/missqueenbotx>𝙈𝙞𝙨𝙨𝙌𝙪𝙚𝙚𝙣𝘽𝙤𝙩 𝙭</a>   
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├◈ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/missqueenbotx>File Store V3.0.0</a>
+├◈ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/missqueenbotx>Fɪʟᴇ Sᴛᴏʀᴇ V𝟹</a>
 ╰───────────────⍟ </b> 
 """
   ABOUT_DEV_TEXT = f"""
@@ -38,8 +38,8 @@ class Config(object):
 """
   HOME_TEXT = """<b>
 Hello, [{}](tg://user?id={}) 🤍\n
-◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ Fɪʟᴇ Store Bᴏᴛ.
-◈ I Cᴀɴ Give You Direct And Batch Links Just Forward Me Files.
+◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ.
+◈ I Cᴀɴ Gɪᴠᴇ Yᴏᴜ Dɪʀᴇᴄᴛ Aɴᴅ Bᴀᴛᴄʜ Lɪɴᴋs Jᴜsᴛ Fᴏʀᴡᴀʀᴅ Mᴇ Fɪʟᴇs.
 
 • Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @missqueenbotx
 </b>"""
