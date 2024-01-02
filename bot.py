@@ -342,6 +342,23 @@ async def button(bot: Client, cmd: CallbackQuery):
                 ]
             )
         )
+        
+    elif "helps" in cb_data:
+        await cmd.message.edit(
+            Config.Helps_data_test,
+            disable_web_page_preview=True,
+            reply_markup=InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("Jᴏɪɴ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url="https://t.me/missqueenbotxchat")
+                    ],
+                    [
+                        InlineKeyboardButton("✘ Cʟᴏꜱᴇ", callback_data="closeMessage"),
+                        InlineKeyboardButton("⛔️ Bᴀᴄᴋ", callback_data="gotohome")
+                    ]
+                ]
+            )
+        )
 
     elif "gotohome" in cb_data:
         await cmd.message.edit(
