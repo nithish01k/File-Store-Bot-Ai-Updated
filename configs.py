@@ -3,10 +3,10 @@ import os
 class Config(object):
   API_ID = int(os.environ.get("API_ID", "21925188"))
   API_HASH = os.environ.get("API_HASH", "f9b377f83f916d783f25d95a2f4e232e")
-  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6925894836:AAFLX4dB-cmMjszC_G7mJ5GQsauFhfdJtgw")
+  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6814859843:AAG55nbGmyxrLyxB9BVCwW_UaXXpd8r_JDI")
   LUFFY_PIC = os.environ.get("LUFFY_PIC", "https://graph.org/file/1c15be412eb886ba1c8e3.jpg")
-  BOT_USERNAME = os.environ.get("BOT_USERNAME", "public_file_store_ibot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002112181719"))
+  BOT_USERNAME = os.environ.get("BOT_USERNAME", "filestore_new_bot")
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002016822623"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "api.tnshort.net")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "spwtACrO5uZiyFDRORTLgPRcsqL2")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "5431249569"))
@@ -20,20 +20,19 @@ class Config(object):
   OTHER_USERS_CAN_SAVE_FILE = bool(os.environ.get("OTHER_USERS_CAN_SAVE_FILE", True))
   ABOUT_BOT_TEXT = f"""<b>╭───────────⍟
 ├◈ ᴍy ɴᴀᴍᴇ : Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ
-├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a> 
-├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/missqueenbotx>𝙈𝙞𝙨𝙨𝙌𝙪𝙚𝙚𝙣𝘽𝙤𝙩 𝙭</a>   
+├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/thomas_shelby_0_7>THOMAS</a> 
+├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/tamil_rockerZ_1>ᴄʟɪᴄᴋ ᴍᴇ</a>   
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├◈ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/missqueenbotx>Fɪʟᴇ Sᴛᴏʀᴇ V𝟹</a>
 ╰───────────────⍟ </b> 
 """
   ABOUT_DEV_TEXT = f"""
-<b>Hɪ I'M <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a>✨\n
-ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ : <a href=https://t.me/sonali_sahaibot>Cʟɪᴄᴋ Hᴇʀᴇ</a>
-ᴠɪsɪᴛ ᴍʏ ɢɪᴛʜᴜʙ : <a href=https://github.com/sonali1563>Sᴏɴᴀʟɪ's Gɪᴛʜᴜʙ</a>
-ᴍʏ Cʜᴀɴɴᴇʟ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/missqueenbotx>𝙈𝙞𝙨𝙨𝙌𝙪𝙚𝙚𝙣𝘽𝙤𝙩 𝙭</a>
-ᴍʏ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/missqueenbotxchat>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥</a>
+<b>Hɪ I'M <a href=https://t.me/filestore_new_bot>Thomas</a>✨\n
+ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ : <a href=https://t.me/thomas_shelby_0_7>Cʟɪᴄᴋ Hᴇʀᴇ</a>
+ᴠɪsɪᴛ ᴍʏ ɢɪᴛʜᴜʙ : <a href=https://github.com/Thomasshelby333>Thomas's Gɪᴛʜᴜʙ</a>
+ᴍʏ Cʜᴀɴɴᴇʟ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/tamil_rockerZ_1>ᴛᴀᴍɪʟʀᴏᴄᴋᴇʀᴢ</a>
+ᴍʏ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/+xNG8OZGJbMA0MDg1>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥</a>
 </b>
 """
   HOME_TEXT = """<b>
@@ -51,5 +50,5 @@ Hello, [{}](tg://user?id={}) 🤍\n
 
 • Bᴇɴᴇғɪᴛs: Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀ TᴇʟᴇGʀᴀᴍ Mᴏᴠɪᴇ Cʜᴀɴɴᴇʟ ᴏʀ Aɴʏ Cᴏᴘʏʀɪɢʜᴛ Cʜᴀɴɴᴇʟ, Tʜᴇɴ Iᴛs Usᴇғᴜʟ ғᴏʀ Dᴀɪʟʏ Usᴀɢᴇ, Yᴏᴜ ᴄᴀɴ Sᴇɴᴅ Mᴇ Yᴏᴜʀ Fɪʟᴇ & I ᴡɪʟʟ Sᴇɴᴅ Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ ᴛᴏ Yᴏᴜ & Cʜᴀɴɴᴇʟ ᴡɪʟʟ ʙᴇ Sᴀғᴇ ғʀᴏᴍ CᴏᴘʏRɪɢʜᴛ Iɴғʀɪɴɢᴇᴍᴇɴᴛ Issᴜᴇ.
 
-⚪️ ғᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ᴄᴏɴᴛᴀᴄᴛ ʜᴇʀᴇ <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a> : <a href=https://t.me/missqueenbotxchat>Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ</a>
+⚪️ ғᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ᴄᴏɴᴛᴀᴄᴛ ʜᴇʀᴇ <a href=https://t.me/thomas_shelby_0_7>Thomas</a> : <a href=https://t.me/+xNG8OZGJbMA0MDg1>Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ</a>
  </b>"""
