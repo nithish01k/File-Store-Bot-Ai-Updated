@@ -73,12 +73,12 @@ async def start(bot: Client, cmd: Message):
                 reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🦋", url="https://t.me/missqueenbotx")
+                        InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🦋", url="https://t.me/tamil_rockerZ_1")
                     ],[
                         InlineKeyboardButton("😎 Aʙᴏᴜᴛ", callback_data="aboutbot"),
                         InlineKeyboardButton("● Aᴅᴍɪɴs ●", callback_data="aboutdevs")
                     ],[
-                        InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
+                        InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/+2VrRus8vN30wYzRl")
                     ],[          
                         InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/D%C9%AAs%E1%B4%84%CA%9F%E1%B4%80%C9%AA%E1%B4%8D%E1%B4%87%CA%80-01-02'),
                         InlineKeyboardButton("⚙️ Hᴇʟᴘ", callback_data="helps")
@@ -122,7 +122,7 @@ async def main(bot: Client, message: Message):
                 return
 
         if message.from_user.id in Config.BANNED_USERS:
-            await message.reply_text("Sorry, You are banned!\n\nContact [𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥](https://t.me/missqueenbotxchat)",
+            await message.reply_text("Sorry, You are banned!\n\nContact [𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥](https://t.me/+2VrRus8vN30wYzRl)",
                                      disable_web_page_preview=True)
             return
 
@@ -316,7 +316,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ✨", url="https://t.me/sonali_sahaibot")
+                        InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ✨", url="https://t.me/thomas_shelby_0_7")
                     ],
                     [
                         InlineKeyboardButton("✘ Cʟᴏꜱᴇ", callback_data="closeMessage"),
@@ -333,7 +333,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Jᴏɪɴ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url="https://t.me/missqueenbotxchat")
+                        InlineKeyboardButton("Jᴏɪɴ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url="https://t.me/+2VrRus8vN30wYzRl")
                     ],
                     [
                         InlineKeyboardButton("✘ Cʟᴏꜱᴇ", callback_data="closeMessage"),
@@ -364,13 +364,13 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🦋", url="https://t.me/missqueenbotx")
+                        InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🦋", url="https://t.me/tamil_rockerZ_1")
                     ],[
                         InlineKeyboardButton("😎 Aʙᴏᴜᴛ", callback_data="aboutbot"),
                         InlineKeyboardButton("● Aᴅᴍɪɴs ●", callback_data="aboutdevs")
                         
                     ],[
-                        InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/missqueenbotxchat")
+                        InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/+2VrRus8vN30wYzRl")
                     ],[
                         InlineKeyboardButton("Dɪsᴄʟᴀɪᴍᴇʀ ✨", url='https://telegra.ph/D%C9%AAs%E1%B4%84%CA%9F%E1%B4%80%C9%AA%E1%B4%8D%E1%B4%87%CA%80-01-02'),
                         InlineKeyboardButton("⚙️ Hᴇʟᴘ", callback_data="helps")
@@ -411,7 +411,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 return
             except Exception:
                 await cmd.message.edit(
-                    text="Something went Wrong. Contact my [𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥](https://t.me/missqueenbotxchat).",
+                    text="Something went Wrong. Contact my [𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥](https://t.me/+2VrRus8vN30wYzRl).",
                     disable_web_page_preview=True
                 )
                 return
@@ -421,8 +421,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Updates Channel", url="https://t.me/missqueenbotx"),
-                        InlineKeyboardButton("Support Group", url="https://t.me/missqueenbotxchat")
+                        InlineKeyboardButton("Updates Channel", url="https://t.me/tamil_rockerZ_1"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/+2VrRus8vN30wYzRl")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
