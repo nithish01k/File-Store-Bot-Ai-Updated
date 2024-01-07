@@ -8,7 +8,7 @@ class Config(object):
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "filestore_new_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002016822623"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "api.tnshort.net")
-  SHORTLINK_API = os.environ.get('SHORTLINK_API', "spwtACrO5uZiyFDRORTLgPRcsqL2")
+  SHORTLINK_API = os.environ.get('SHORTLINK_API', "eadd283ee4fb83c41e43cb36b73bf5f658c29645")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "5431249569"))
   DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://test123:test123@cluster0.ypzcfxf.mongodb.net/?retryWrites=true&w=majority")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001887195187")
